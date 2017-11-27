@@ -1,0 +1,6 @@
+{
+  "notebook": {
+    "folder": "%s",
+    "file": "%s.ipynb"
+  }
+}
